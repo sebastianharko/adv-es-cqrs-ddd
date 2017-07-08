@@ -13,6 +13,9 @@ Martin Zapletal from Cake Solutions discusses details of Akka Persistence Query.
 * [Building Apps with Functional Domain Models, Event Sourcing and Actors (2012)](https://www.youtube.com/watch?v=95KztoeGHl0) By Debasish Ghosh.
 * [Property-based Testing for Functional Domain Models (2014)](https://www.youtube.com/watch?v=W0oFzBps-fg) By Debasish Ghosh. In property based testing we write properties and not low level test cases. And let the system generate test cases which validate such properties.
 
+# Open Source
+* [Stamina](https://github.com/scalapenos/stamina) Schema evolution for event sourcing
 
-
+# Articles / Blog Posts
+* [Hexagonal Architecture and Free Monad: Two related design patterns? (2017)](https://deque.blog/2017/07/06/hexagonal-architecture-a-less-declarative-free-monad/)
 
