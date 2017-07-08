@@ -3,7 +3,7 @@ Advanced Topics in Event Sourcing / CQRS / DDD
 
 # Talks
 
-* [Martin Krasser: Event Sourcing and CQRS with Akka Persistence and Eventuate (2015)](https://www.youtube.com/watchv=vFVry457XLk&t=2061s)
+* [Martin Krasser: Event Sourcing and CQRS with Akka Persistence and Eventuate (2015)](https://www.youtube.com/watch?v=vFVry457XLk)
 Martin Krasser, the original author of Akka Persistence and Eventuate, talks about CQRS, Event Sourcing with a focus on distributed systems and CAP tradeoffs.
 * [Data in Motion: Streaming Static Data Efficiently in Akka Persistence (2016) ](https://www.youtube.com/watch?v=K4FY0XKediU)
 Martin Zapletal from Cake Solutions discusses details of Akka Persistence Query.
