@@ -11,7 +11,7 @@ Martin Zapletal from Cake Solutions discusses details of Akka Persistence Query.
 * [Event Sourcing & Functional Programming - a pair made in heaven (2015)](https://www.youtube.com/watch?v=1rFY2SfdDoE) Paweł Szulc talks about the relationship between FP and Event Sourcing.
 * [Functional API for defining type safe, reliable Akka actors (2016)](https://www.youtube.com/watch?v=GsPAHzk8-mE) By Daniel Urban.
 * [Building Apps with Functional Domain Models, Event Sourcing and Actors (2012)](https://www.youtube.com/watch?v=95KztoeGHl0) By Debasish Ghosh.
-* [Property-based Testing for Functional Domain Models (2014)](https://www.youtube.com/watch?v=W0oFzBps-fg)By Debasish Ghosh. In property based testing we write properties and not low level test cases. And let the system generate test cases which validate such properties.
+* [Property-based Testing for Functional Domain Models (2014)](https://www.youtube.com/watch?v=W0oFzBps-fg) By Debasish Ghosh. In property based testing we write properties and not low level test cases. And let the system generate test cases which validate such properties.
 
 
 
