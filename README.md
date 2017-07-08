@@ -14,7 +14,12 @@ Martin Zapletal from Cake Solutions discusses details of Akka Persistence Query.
 
 # Open Source
 * [Stamina](https://github.com/scalapenos/stamina) Schema evolution for event sourcing.
+* [Event Sourcing for Akka Streams](https://github.com/krasserm/akka-stream-eventsourcing) by Martin Krasser. Aims to provide a stateful EventSourcing graph stage for Akka Streams.
 
 # Articles / Blog Posts
 * [Hexagonal Architecture and Free Monad: Two related design patterns? (2017)](https://deque.blog/2017/07/06/hexagonal-architecture-a-less-declarative-free-monad/) by Quentin Duval.
 * [Domain models, Algebraic laws and Unit tests (2017)](http://debasishg.blogspot.ca/2017/06/domain-models-algebraic-laws-and-unit.html) by Debasish Ghosh.
+* [Building a CQRS / ES Framework (part 1) (2017)](http://www.strongtyped.io/blog/2017/05/07/building-cqrs-es-framework-part1/) by Renato Cavalcanti.
+
+# Academic Papers
+* [The Dark Side of Event Sourcing: Managing Data Conversion (2017)](http://files.movereem.nl/2017saner-eventsourcing.pdf) by Michiel Overeem, Marten Spoor, and Slinger Jansen ... Almost like the authoritative guide on versioning in event-sourced systems.
