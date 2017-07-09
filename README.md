@@ -10,11 +10,12 @@ Martin Zapletal from Cake Solutions discusses details of Akka Persistence Query.
 * [Reification and type-safety in a CQRS world (2017) ](https://www.youtube.com/watch?v=qwYs0J7xp78) Renato Cavalcanti discusses how CQRS applications bring some new challenges for statically typed language lovers.
 * [Event Sourcing & Functional Programming - a pair made in heaven (2015)](https://www.youtube.com/watch?v=1rFY2SfdDoE) Paweł Szulc talks about the relationship between FP and Event Sourcing.
 * [Functional API for defining type safe, reliable Akka actors (2016)](https://www.youtube.com/watch?v=GsPAHzk8-mE) By Daniel Urban.
-* [Building Apps with Functional Domain Models, Event Sourcing and Actors (2012)](https://www.youtube.com/watch?v=95KztoeGHl0) By Debasish Ghosh.
+* [Building Apps with Functional Domain Models, Event Sourcing and Actors (2012)](https://www.youtube.com/watch?v=95KztoeGHl0) By Debasish Ghosh. One of the most interesting parts is when Debasish points out a duality between event sourcing and functional data structures. 
 
 # Open Source
 * [Stamina](https://github.com/scalapenos/stamina) Schema evolution for event sourcing.
 * [Event Sourcing for Akka Streams](https://github.com/krasserm/akka-stream-eventsourcing) by Martin Krasser. Aims to provide a stateful EventSourcing graph stage for Akka Streams.
+* [FunCQRS](https://github.com/strongtyped/fun-cqrs) An ES / CQRS framework. The code, in general, is a good illustration on how to create your own DSL and build your own abstraction over Akka's PersistentActor.
 
 # Articles / Blog Posts
 * [Hexagonal Architecture and Free Monad: Two related design patterns? (2017)](https://deque.blog/2017/07/06/hexagonal-architecture-a-less-declarative-free-monad/) by Quentin Duval.
