@@ -15,7 +15,7 @@ Martin Zapletal from Cake Solutions discusses details of Akka Persistence Query.
 # Open Source
 * [Stamina](https://github.com/scalapenos/stamina) Schema evolution for event sourcing.
 * [Event Sourcing for Akka Streams](https://github.com/krasserm/akka-stream-eventsourcing) by Martin Krasser. Aims to provide a stateful EventSourcing graph stage for Akka Streams.
-* [FunCQRS](https://github.com/strongtyped/fun-cqrs) An ES / CQRS framework. The code, in general, is a good illustration on how to create your own DSL and build your own abstraction over Akka's PersistentActor.
+* [Fun.CQRS](https://github.com/strongtyped/fun-cqrs) An ES / CQRS framework. The code, in general, is a good illustration on how to create your own DSL and build your own abstraction over Akka's PersistentActor.
 
 # Articles / Blog Posts
 * [Hexagonal Architecture and Free Monad: Two related design patterns? (2017)](https://deque.blog/2017/07/06/hexagonal-architecture-a-less-declarative-free-monad/) by Quentin Duval.
