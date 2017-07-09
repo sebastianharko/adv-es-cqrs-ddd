@@ -10,8 +10,10 @@ Martin Krasser, the original author of Akka Persistence and Eventuate, talks abo
 Martin Zapletal from Cake Solutions discusses details of Akka Persistence Query. From Akka docs: "Akka Persistence Query itself is not directly the query side of an application, however it can help to migrate data from the write side to the query side database."
 * [Reification and type-safety in a CQRS world (2017) ](https://www.youtube.com/watch?v=qwYs0J7xp78) Renato Cavalcanti discusses how CQRS applications bring some new challenges for statically typed language lovers.
 * [Event Sourcing & Functional Programming - a pair made in heaven (2015)](https://www.youtube.com/watch?v=1rFY2SfdDoE) Paweł Szulc talks about the relationship between FP and Event Sourcing. One of the implementations he shows makes use of the State monad and he briefly discusses how such an implementation works very well with property-based testing. 
-* [Functional API for defining type safe, reliable Akka actors (2016)](https://www.youtube.com/watch?v=GsPAHzk8-mE) By Daniel Urban. Attempts to build an event sourcing API on top of Akka Typed. First such attempt AFAIK.
-* [Building Apps with Functional Domain Models, Event Sourcing and Actors (2012)](https://www.youtube.com/watch?v=95KztoeGHl0) By Debasish Ghosh. One of the most interesting parts is when Debasish points out a duality between event sourcing and functional data structures. 
+* [Functional API for defining type safe, reliable Akka actors (2016)](https://www.youtube.com/watch?v=GsPAHzk8-mE) by Daniel Urban. Attempts to build an event sourcing API on top of Akka Typed. First such attempt AFAIK.
+* [The Elephant in the Room (2017)]
+(https://skillsmatter.com/skillscasts/9652-the-elephant-in-the-room) by Greg Young. Discusses versioning.  
+* [Building Apps with Functional Domain Models, Event Sourcing and Actors (2012)](https://www.youtube.com/watch?v=95KztoeGHl0) by Debasish Ghosh. One of the most interesting parts is when Debasish points out a duality between event sourcing and functional data structures. 
 
 # Open Source
 
