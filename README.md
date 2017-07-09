@@ -23,6 +23,7 @@ Martin Zapletal from Cake Solutions discusses details of Akka Persistence Query.
 * [Domain models, Algebraic laws and Unit tests (2017)](http://debasishg.blogspot.ca/2017/06/domain-models-algebraic-laws-and-unit.html) by Debasish Ghosh.
 * [Building a CQRS / ES Framework (part 1) (2017)](http://www.strongtyped.io/blog/2017/05/07/building-cqrs-es-framework-part1/) by Renato Cavalcanti. Discusses the functional foundation of event sourcing. 
 * [Akka Streams: A Motivating Example (2017)](http://blog.colinbreck.com/akka-streams-a-motivating-example/) You should read *everything* by Colin Breck but this one in particular is a great start.
+* [Akka Persistence: Testing Persistent Actors (2016)](http://tudorzgureanu.com/akka-persistence-testing-persistent-actors/) 
 
 # Academic Papers
 * [The Dark Side of Event Sourcing: Managing Data Conversion (2017)](http://files.movereem.nl/2017saner-eventsourcing.pdf) by Michiel Overeem, Marten Spoor, and Slinger Jansen ... Almost like the authoritative guide on versioning in event-sourced systems.
