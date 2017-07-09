@@ -1,10 +1,10 @@
 # Advanced Topics in Event Sourcing / CQRS / DDD
-Advanced Topics in Event Sourcing / CQRS / DDD
+Advanced Topics in Event Sourcing / CQRS / DDD. 
 
 # Talks
 
 * [Martin Krasser: Event Sourcing and CQRS with Akka Persistence and Eventuate (2015)](https://www.youtube.com/watch?v=vFVry457XLk)
-Martin Krasser ([@mrt1nz](https://twitter.com/mrt1nz)), the original author of Akka Persistence and Eventuate, talks about CQRS, Event Sourcing with a focus on distributed systems and CAP tradeoffs. Spoiler: Akka Persistence is more on the CP side whereas Akka with Eventuate is more on the AP side.
+Martin Krasser ([@mrt1nz](https://twitter.com/mrt1nz)), the original author of Akka Persistence and Eventuate, talks about CQRS, Event Sourcing with a focus on distributed systems and CAP tradeoffs. Spoiler: Akka Persistence is more on the CP side whereas Akka with Eventuate is more on the AP side. :star::star::star::star::star:
 * [Sane Sharding with Akka Cluster (2016)](https://www.youtube.com/watch?v=f06Otw_DuQU) Michal Plachta ([@miciek](https://twitter.com/miciek?lang=en)) explains Akka Cluster Sharding. Note: he does not mention CQRS / ES / DDD but Cluster Sharding / Persistence are almost always used in combination. Cluster Sharding is useful even when you don't need high scalability since it provides passivation and manages actor creation for you (actor creation becomes "on demand").
 * [Data in Motion: Streaming Static Data Efficiently in Akka Persistence (2016) ](https://www.youtube.com/watch?v=K4FY0XKediU)
 Martin Zapletal ([@zapletal_martin](https://twitter.com/zapletal_martin)) from Cake Solutions discusses details of Akka Persistence Query. From Akka docs: "Akka Persistence Query itself is not directly the query side of an application, however it can help to migrate data from the write side to the query side database."
@@ -29,7 +29,7 @@ Martin Zapletal ([@zapletal_martin](https://twitter.com/zapletal_martin)) from C
 * [Akka Streams: A Motivating Example (2017)](http://blog.colinbreck.com/akka-streams-a-motivating-example/) You should read *everything* by Colin Breck ([@breckcs](https://twitter.com/breckcs?lang=en)) but this one in particular is a great start.
 * [Akka Persistence: Testing Persistent Actors (2016)](http://tudorzgureanu.com/akka-persistence-testing-persistent-actors/) by Tudor Zgureanu ([@tudor_zgureanu](https://twitter.com/tudor_zgureanu)). Straight forward. Message in. Message out.
 * [CQRS increases consistency (2016)](https://jazzy.id.au/2016/10/08/cqrs-increases-consistency.html) by James Roper ([@jroper](https://twitter.com/jroper?lang=en)). Fav quote: "*If someone says using CQRS in microservices means you lose consistency - they have failed to acknowledge that they lost consistency the moment they started using microservices, it was not CQRS that lost them that consistency.*"
-* [Eventuate's documentation](http://rbmhtechnology.github.io/eventuate/) contains a wealth of knowledge and information and is an excellent read.
+* [Eventuate's documentation](http://rbmhtechnology.github.io/eventuate/) by Martin Krasser ([@mrt1nz](https://twitter.com/mrt1nz)) contains a wealth of knowledge and information and is an excellent read. :star::star::star::star::star:
 
 # Academic Papers
 
