@@ -14,11 +14,13 @@ Martin Zapletal from Cake Solutions discusses details of Akka Persistence Query.
 * [Building Apps with Functional Domain Models, Event Sourcing and Actors (2012)](https://www.youtube.com/watch?v=95KztoeGHl0) By Debasish Ghosh. One of the most interesting parts is when Debasish points out a duality between event sourcing and functional data structures. 
 
 # Open Source
+
 * [Stamina](https://github.com/scalapenos/stamina) Schema evolution for event sourcing. It has "*a strong focus on long-term viability of your persisted data so it provides support for versioning that data, auto-migrating that data at read time to be compatible with your current event and domain classes, and a testkit to make sure all older versions of your persisted data are still readable.*"
 * [Event Sourcing for Akka Streams](https://github.com/krasserm/akka-stream-eventsourcing) by Martin Krasser. Aims to provide a stateful EventSourcing graph stage for Akka Streams.
-* [Fun.CQRS](https://github.com/strongtyped/fun-cqrs) An ES / CQRS framework with a pluggable backend (an Akka backend is provided). Even if you do not end up using it, the code, in general, is a good illustration on how to create your own DSL and build your own abstraction over Akka's PersistentActor.
+* [Fun.CQRS](https://github.com/strongtyped/fun-cqrs) An ES / CQRS framework with a pluggable backend (an Akka backend is provided). Even if you end up not using it, the code, in general, is a good illustration on how to create your own DSL and build your own abstraction over Akka's PersistentActor.
 
 # Articles / Blog Posts
+
 * [Hexagonal Architecture and Free Monad: Two related design patterns? (2017)](https://deque.blog/2017/07/06/hexagonal-architecture-a-less-declarative-free-monad/) by Quentin Duval.
 * [Domain models, Algebraic laws and Unit tests (2017)](http://debasishg.blogspot.ca/2017/06/domain-models-algebraic-laws-and-unit.html) by Debasish Ghosh.
 * [Building a CQRS / ES Framework (part 1) (2017)](http://www.strongtyped.io/blog/2017/05/07/building-cqrs-es-framework-part1/) by Renato Cavalcanti. Discusses the functional foundation of event sourcing. 
@@ -27,8 +29,10 @@ Martin Zapletal from Cake Solutions discusses details of Akka Persistence Query.
 * [CQRS increases consistency (2016)](https://jazzy.id.au/2016/10/08/cqrs-increases-consistency.html) by James Roper. Fav quote: "*If someone says using CQRS in microservices means you lose consistency - they have failed to acknowledge that they lost consistency the moment they started using microservices, it was not CQRS that lost them that consistency.*"
 
 # Academic Papers
+
 * [The Dark Side of Event Sourcing: Managing Data Conversion (2017)](http://files.movereem.nl/2017saner-eventsourcing.pdf) by Michiel Overeem, Marten Spoor, and Slinger Jansen ... Almost like the authoritative guide on versioning in event-sourced systems.
 
 # More
-PRs welcome.
+
+PRs welcome. 
 
