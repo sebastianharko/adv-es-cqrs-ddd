@@ -3,6 +3,9 @@ Advanced Topics in Event Sourcing / CQRS / DDD.
 
 # Talks
 
+* [Jonas Boner: How Events Are Reshaping Modern Systems (2017)](https://www.youtube.com/watch?v=3V3pHm2Cpks)
+Event-driven architecture and design have been getting a lot of attention in recent years. It’s an old concept that has been around for decades, so why this sudden peak of interest?
+
 * [Martin Krasser: Event Sourcing and CQRS with Akka Persistence and Eventuate (2015)](https://www.youtube.com/watch?v=vFVry457XLk)
 Martin Krasser ([@mrt1nz](https://twitter.com/mrt1nz)), the original author of Akka Persistence and Eventuate, talks about CQRS, Event Sourcing with a focus on distributed systems and CAP tradeoffs. Spoiler: Akka Persistence is more on the CP side whereas Akka with Eventuate is more on the AP side. :star::star::star::star::star:
 
@@ -12,8 +15,6 @@ Martin Zapletal ([@zapletal_martin](https://twitter.com/zapletal_martin)) from C
 * [Reification and type-safety in a CQRS world (2017) ](https://www.youtube.com/watch?v=qwYs0J7xp78) Renato Cavalcanti ([@renatocaval](https://twitter.com/renatocaval)) discusses how CQRS applications bring some new challenges for statically typed language lovers.
 
 * [Event Sourcing & Functional Programming - a pair made in heaven (2015)](https://www.youtube.com/watch?v=1rFY2SfdDoE) Paweł Szulc ([@rabbitonweb](https://twitter.com/rabbitonweb)) talks about the relationship between FP and Event Sourcing. One of the implementations he shows makes use of the State monad and he briefly discusses how such an implementation works very well with property-based testing. 
-
-* [Functional API for defining type safe, reliable Akka actors (2016)](https://www.youtube.com/watch?v=GsPAHzk8-mE) by Daniel Urban. Attempts to build an event sourcing API on top of Akka Typed. First such attempt AFAIK.
 
 * [The Elephant in the Room (2017)](https://skillsmatter.com/skillscasts/9652-the-elephant-in-the-room) by Greg Young. Discusses versioning.  
 
