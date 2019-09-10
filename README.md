@@ -1,4 +1,4 @@
-# Advanced Topics in Event Sourcing / CQRS / DDD
+﻿# Advanced Topics in Event Sourcing / CQRS / DDD
 Advanced Topics in Event Sourcing / CQRS / DDD. 
 
 # Talks
@@ -50,7 +50,7 @@ Martin Zapletal ([@zapletal_martin](https://twitter.com/zapletal_martin)) from C
 
 # Academic Papers
 
-* [The Dark Side of Event Sourcing: Managing Data Conversion (2017)](http://files.movereem.nl/2017saner-eventsourcing.pdf) by Michiel Overeem, Marten Spoor, and Slinger Jansen ... Almost like the authoritative guide on versioning in event-sourced systems.
+* [The Dark Side of Event Sourcing: Managing Data Conversion (2017)](https://www.researchgate.net/publication/315637858_The_dark_side_of_event_sourcing_Managing_data_conversion) by Michiel Overeem, Marten Spoor, and Slinger Jansen ... Almost like the authoritative guide on versioning in event-sourced systems.
 
 # More
 
