@@ -20,6 +20,8 @@ Martin Zapletal ([@zapletal_martin](https://twitter.com/zapletal_martin)) from C
 
 * [Building Apps with Functional Domain Models, Event Sourcing and Actors (2012)](https://www.youtube.com/watch?v=95KztoeGHl0) by Debasish Ghosh ([@debasishg](https://twitter.com/debasishg)). One of the most interesting parts is when Debasish points out a duality between event sourcing and functional data structures. 
 
+* [Event in Software, Process, and Reality (2019)](https://www.youtube.com/watch?v=EX_zRTeowuM) by John Bywater. Discusses events as actual occasions of experience, and identifies the "process event" as the unit of reliability in systems of event sourced applications.
+
 # Open Source
 
 * [Stamina](https://github.com/scalapenos/stamina) Schema evolution for event sourcing. It has "*a strong focus on long-term viability of your persisted data so it provides support for versioning that data, auto-migrating that data at read time to be compatible with your current event and domain classes, and a testkit to make sure all older versions of your persisted data are still readable.*"
